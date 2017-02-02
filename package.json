@@ -1,0 +1,14 @@
+{
+  "name": "blazinator-bot",
+  "version": "1.0.0",
+  "description": "The Blazinator League Touranement Bot.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "KoukiBlaze",
+  "license": "ISC",
+  "dependencies": {
+    "discordie": "^0.10.0"
+  }
+}
